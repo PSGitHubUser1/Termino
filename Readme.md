@@ -1,6 +1,6 @@
 # Termino
 
-### First time I made a project with C#
+### First time I made a project with C# Console
 
 #### It includes:
 
