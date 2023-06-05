@@ -2,7 +2,7 @@
 
 ### First time I made a project with C# Console
 
-### Requires .NET 6.0 to run.
+### Requires ".NET 6.0.XX Runtime" to run.
 
 #### It includes:
 
