@@ -2,6 +2,8 @@
 
 ### First time I made a project with C# Console
 
+### Requires .NET 6.0 to run.
+
 #### It includes:
 
 ##### A. Square Finder
